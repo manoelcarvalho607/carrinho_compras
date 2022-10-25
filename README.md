@@ -1,1 +1,1 @@
-"# carrinho_compras" 
+- Projeto carrinho de compras
